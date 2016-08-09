@@ -1,1 +1,1 @@
-This folder will contain Eagle Library files only (*.lbr; *.l#x)
+This folder will contain Eagle Library files, cam processors and design rules only (*.lbr; *.l#x, *.dru, *.cam, *.drl, etc.)
