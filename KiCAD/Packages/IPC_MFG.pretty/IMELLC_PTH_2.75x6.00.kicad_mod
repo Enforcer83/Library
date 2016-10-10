@@ -1,9 +1,0 @@
-(module IMELLC_PTH_2.75x6.00 (layer F.Cu) (tedit 57E58E67)
-  (fp_text reference REF** (at 0 -3.81) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value PTH_2.75x6.00 (at 0 3.81) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (pad 1 thru_hole circle (at 0 0) (size 6 6) (drill 2.75) (layers *.Cu *.Mask F.SilkS))
-)

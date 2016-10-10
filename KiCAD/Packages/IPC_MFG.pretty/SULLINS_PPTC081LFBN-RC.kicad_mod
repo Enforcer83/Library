@@ -1,8 +1,8 @@
-(module SULLINS_PPxC081LFBN-RC (layer F.Cu) (tedit 57C63143)
+(module SULLINS_PPTC081LFBN-RC (layer F.Cu) (tedit 57C63143)
   (fp_text reference REF** (at 0 -11.43) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SULLINS_PPxC081LFBN-RC (at 0 11.43) (layer F.Fab) hide
+  (fp_text value SULLINS_PPTC081LFBN-RC (at 0 11.43) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center -2.159 -8.89) (end -1.905 -8.763) (layer F.SilkS) (width 0.2))
