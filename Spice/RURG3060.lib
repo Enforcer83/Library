@@ -1,0 +1,13 @@
+*************** Discrete Diode Electrical Parameter *****************
+** Product: RHRU3060CC
+** Package: JEDEC STYLE TO-247
+** 30A, 600V Ultrafast Diode
+**-------------------------------------------------------------------
+.model RURG3060CC d 
++ IS=1.05e-12     RS=0.0134           EG=1.16              N=1.0
++ NR=2.0          ISR=2.32e-9         CJO=1.05e-10         VJ=0.45
++ M=0.59          FC=0.5              IBV=2.5e-4           BV=600
++ TT=5.88e-8      TRS1=1.01e-4        TRS2=1.5e-6
+**-------------------------------------------------------------------
+** Creation: Jan.-02-2013   Rev.: 0.0
+** Fairchild Semiconductor
